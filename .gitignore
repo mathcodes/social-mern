@@ -5,3 +5,4 @@ client/build
 client/.eslintcache
 .env
 notes.md
+.vercel
